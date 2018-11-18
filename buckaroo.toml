@@ -1,0 +1,73 @@
+targets = [ "//:thread" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-algorithm"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-assert"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-atomic"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-bind"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-chrono"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-container_hash"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-date_time"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-functional"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-lexical_cast"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-math"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-predef"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-static_assert"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-system"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-throw_exception"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_index"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-winapi"
+version = "branch=master"
