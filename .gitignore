@@ -38,3 +38,12 @@ test/bin/*
 #doc
 
 doc/html
+
+# Buck
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+buckaroo
+BUCKAROO_DEPS
+buckaroo_macros.bzl
