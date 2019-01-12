@@ -45,3 +45,4 @@ buck-out
 .buckconfig.d
 buckaroo
 BUCKAROO_DEPS
+buckaroo_macros.bzl
