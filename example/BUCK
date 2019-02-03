@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'condition',
+  srcs = [
+    'condition.cpp',
+  ],
+  deps = [
+    '//:thread',
+  ],
+)
