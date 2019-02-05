@@ -150,7 +150,7 @@ revision = "43c7296e8513fcb9cda6e88396e863995c0d0cb5"
 
 [lock."github.com/buckaroo-pm/boost-intrusive"]
 versions = [ "branch=master" ]
-revision = "d812ed3ac7c7d573249e49fe23aa12339629c730"
+revision = "b78ebe67512688e4402ce97d2ee7e28652da3ff3"
 
 [lock."github.com/buckaroo-pm/boost-io"]
 versions = [ "branch=master" ]
